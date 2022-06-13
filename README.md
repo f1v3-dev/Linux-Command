@@ -1,1 +1,1 @@
-# Learning Linux usasge
+# Learning Linux
